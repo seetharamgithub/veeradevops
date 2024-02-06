@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Myntra</title>
+</head>
+<body>
+
+<h1>Brand Collections</h1>
+<p>soch</p>
+<p>avasa</p>
+<p>endo era</p>
+<p>varanga</p>
+
+</body>
+</html>
